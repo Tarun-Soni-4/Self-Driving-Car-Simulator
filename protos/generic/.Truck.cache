@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.5
+protoFileHash: e83f119c5233678659607a54ab3702d5
+needsRobotAncestor: 1
+baseType: Robot
+slotType: 
+parameters: translation,rotation,color,trailer,name,controller,controllerArgs,supervisor,synchronization,sensorsSlotFront,sensorsSlotRear,sensorsSlotTop,sensorsSlotCenter
+tags: static
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: https://www.cyberbotics.com/doc/automobile/car#heavy-weights
+info: A\ssimple\struck\n

@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.5
+protoFileHash: de993bafa9c0a5480a4fa4d281380191
+needsRobotAncestor: 0
+baseType: Slot
+slotType: vehicle\swheel
+parameters: name,physics,boundingObject,tireRadius
+tags: 
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: 
+info: Model\sof\sthe\sCitroën\sC-Zero\sfront\swheels\susing\sthe\sgeneric\sVehicleWheel\sproto\nincluding\sphysic\sproperties\sand\stextures\nThe\scontactMaterial\sis\s"CitroenCZeroWheels"\nSize:\s145/65/R15\nThis\smodel\swas\ssponsored\sby\sthe\sCTI\sproject\sRO2IVSim\s(http://transport.epfl.ch/simulator-for-mobile-robots-and-intelligent-vehicles).\n

@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.5
+protoFileHash: cd7b91302d4dd662492ed415f5c16312
+needsRobotAncestor: 0
+baseType: Group
+slotType: 
+parameters: color
+tags: hidden
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: 
+info: The\soriginal\sblender\smodel\swas\smade\sby\sSONGKRO\s(http://www.blendswap.com/blends/view/46384)\nThis\smodel\swas\ssponsored\sby\sthe\sCTI\sproject\sRO2IVSim\s(http://transport.epfl.ch/simulator-for-mobile-robots-and-intelligent-vehicles).\n

@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.5
+protoFileHash: 5e9e396ea6ad5fe4e2d0a0795b2043fe
+needsRobotAncestor: 0
+baseType: Robot
+slotType: 
+parameters: translation,rotation,color,recognitionColors,name,controller,controllerArgs,sensorsSlotFront,sensorsSlotRear,sensorsSlotTop,sensorsSlotCenter,wheelBoundingObject,frontRightWheelAngularVelocity,frontLeftWheelAngularVelocity,rearRightWheelAngularVelocity,rearLeftWheelAngularVelocity
+tags: 
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: https://www.cyberbotics.com/doc/automobile/car#simple-vehicles
+info: Simple\skinematic\smodel\sof\sthe\sBMW\sX5\sto\sbe\smoved\swith\sa\sSupervisor.\nThis\smodel\swas\ssponsored\sby\sthe\sCTI\sproject\sRO2IVSim\s(http://transport.epfl.ch/simulator-for-mobile-robots-and-intelligent-vehicles).\n

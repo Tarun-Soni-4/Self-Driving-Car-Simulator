@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.5
+protoFileHash: 2adac29ba4e83c92c5b1895ae2755d92
+needsRobotAncestor: 0
+baseType: Slot
+slotType: vehicle\swheel
+parameters: translation,rotation,name,tireRadius,boundingObject,physics,angularVelocity
+tags: hidden
+license:  Creative Commons Attribution 4.0 International License.
+licenseUrl:  https://creativecommons.org/licenses/by/4.0/legalcode
+documentationUrl: 
+info: 

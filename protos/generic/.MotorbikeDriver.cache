@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.5
+protoFileHash: e35f9bc90823d59efea8e2f2ed01a28b
+needsRobotAncestor: 0
+baseType: Slot
+slotType: motorbike\sdriver
+parameters: shirtColor,pantsColor,skinColor,helmetColor
+tags: 
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: 
+info: The\sMotorbike\sdriver\sis\sbased\son\sthe\spedestrian\sPROTO\n

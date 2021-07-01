@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.5
+protoFileHash: a5fcd4d3521df87fc871b8cb60db1d2f
+needsRobotAncestor: 0
+baseType: Robot
+slotType: 
+parameters: translation,rotation,color,recognitionColors,plate,name,controller,controllerArgs,sensorsSlotFront,sensorsSlotRear,sensorsSlotTop,sensorsSlotCenter,wheelBoundingObject,frontRightWheelAngularVelocity,frontLeftWheelAngularVelocity,rearRightWheelAngularVelocity,rearLeftWheelAngularVelocity
+tags: 
+license:  Creative Commons Attribution 4.0 International License.
+licenseUrl:  https://creativecommons.org/licenses/by/4.0/legalcode
+documentationUrl: 
+info: Simple\skinematic\smodel\sof\sthe\sTesla\smodel\s3\sto\sbe\smoved\swith\sa\sSupervisor.\n

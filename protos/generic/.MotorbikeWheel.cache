@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.5
+protoFileHash: f5266d29aa144e083c85c21417158107
+needsRobotAncestor: 0
+baseType: Slot
+slotType: vehicle\swheel
+parameters: name,physics,boundingObject,tireRadius
+tags: 
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: 
+info: 

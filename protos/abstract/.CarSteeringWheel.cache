@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.5
+protoFileHash: 3bbfd087392d5f39765b258d38ad8b18
+needsRobotAncestor: 1
+baseType: Slot
+slotType: vehicle\ssteering\swheel
+parameters: name
+tags: 
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: 
+info: A\sgeneric\ssteering\swheel\sto\sinsert\sin\sthe\s'steeringWheel'\sfield\sof\ssome\svehicles.\n

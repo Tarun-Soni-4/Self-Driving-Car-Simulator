@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.5
+protoFileHash: 025ec1a1c90d5ac113238223f107a452
+needsRobotAncestor: 0
+baseType: Robot
+slotType: 
+parameters: translation,rotation,color,secondaryColor,recognitionColors,plate,name,controller,controllerArgs,sensorsSlotFront,sensorsSlotRear,sensorsSlotTop,sensorsSlotCenter,wheelBoundingObject,frontRightWheelAngularVelocity,frontLeftWheelAngularVelocity,rearRightWheelAngularVelocity,rearLeftWheelAngularVelocity
+tags: 
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: https://www.cyberbotics.com/doc/automobile/car#simple-vehicles
+info: Simple\skinematic\smodel\sof\sthe\sRange\sRover\sSport\sSVR\s2015\sto\sbe\smoved\swith\sa\sSupervisor.\n
